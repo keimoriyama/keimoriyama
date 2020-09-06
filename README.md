@@ -1,1 +1,6 @@
-[![](https://raw.githubusercontent.com/keimoriyama/keimoriyama/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a href="https://github.com/keimoriyama/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=keimoriyama&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/keimoriyama/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keimoriyama" />
+</a>
